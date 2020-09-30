@@ -5,9 +5,9 @@
 Download the FWPipeline tool from [here](https://fwstorage.imfast.io/FWPipeLine/Apps/FWPipeline.rar).
 Unpack it.
 
-## Lunch
+## Launch
 
-First lunch is very easy just lunch the app by clicking the FWPipeline.exe. During Initial setup you can be asked by UAC multiple times to proceed. Just click yes. Admin rights are necessary to setup Environment Variables that this software uses. Thanks to that library can always find the pipeline and it's tools no matter what application use it. 
+First launch is very easy just launch the app by clicking the FWPipeline.exe. During Initial setup you can be asked by UAC multiple times to proceed. Just click yes. Admin rights are necessary to setup Environment Variables that this software uses. Thanks to that library can always find the pipeline and it's tools no matter what application use it. 
 
 This screen shows up:
 
