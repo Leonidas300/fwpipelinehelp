@@ -2,7 +2,7 @@
 
 ## The Installation
 
-Download the FWPipeline tool from [here](https://fwstorage.imfast.io/FWPipeLine/Apps/FWPipeline.rar).
+Download the FWPipeline tool from [here](https://onedrive.live.com/download?cid=DDF1BCC0188E0CF9&resid=DDF1BCC0188E0CF9%21162&authkey=AN7MsEqFHT703tg).
 Unpack it.
 
 ## Launch
